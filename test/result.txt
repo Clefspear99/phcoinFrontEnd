@@ -1,0 +1,5 @@
+{	"status" : "Success!",
+	"operation" : "Block Mined!",
+	"hash" : "ecbc4c18fe2c53ffcc2355279104ea4ac30068242bd2d31d5f90e57256e1ef60",
+	"userkey" : "c71395ae1585ef1dde513b11e5624339e802e85fe227e129f29672e443a4ce86"
+}
